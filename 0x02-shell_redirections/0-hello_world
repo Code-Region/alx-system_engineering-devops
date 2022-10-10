@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Hello, Wold" | cat -e
+echo "Hello, Wold"
